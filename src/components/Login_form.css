@@ -1,0 +1,19 @@
+.form{
+    position: fixed;
+    align-items: center;
+    display: grid;
+    width: 100px;
+    height: 100%;
+    left: 350px;
+
+}
+.wrapper{
+    max-width: 390px;
+   
+    padding: 30px;
+    border-radius: 5px;
+    
+}
+.text{
+    padding: 0 500px;
+}

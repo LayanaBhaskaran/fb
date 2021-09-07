@@ -1,0 +1,63 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.header{
+    width:100%;
+    height:10%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    position: fixed;
+    top:0%;
+    z-index: 100;
+}
+
+.hleft{
+    display: flex;
+    align-items: center;
+    width: 25px;
+
+}
+.fblogo{
+    position:fixed;
+    left: 10px;
+    width: 50px;
+    color:#3b5998;
+    font-size: 40px;
+}
+    .hsearch{
+        width: 80%;
+        position: relative;
+
+    }
+    .hbar{
+        width: 100%;
+        height: 20;
+        left: 50px;
+        padding: 15px 45px;
+        border:none;
+        border-radius: 30px;
+        outline: none;
+    }
+
+.hcenter{
+    display: flex;
+    width: 50px;
+    padding: 0 70px;
+    justify-content: space-between;
+
+}
+
+
+.hlast{
+left: 100px;
+
+
+}
+.person{
+    left: 0px;
+}

@@ -1,0 +1,13 @@
+.side{
+    width:10px;
+    height: 10px;
+    margin:50px;
+    border-radius: 20px;
+    border-color: crimson;
+    border-width: 10px;
+
+
+}
+.button{
+    color: crimson;
+}
