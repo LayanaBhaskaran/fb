@@ -6,6 +6,9 @@ function ErrorModel(props) {
             <header>{props.title}</header>
         <body>{props.message}</body>
         
+        <button onClick={props.onConfirm}> 
+                okey
+            </button>
 
         </div>
     )
